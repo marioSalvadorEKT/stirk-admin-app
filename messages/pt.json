@@ -1,4 +1,8 @@
 {
-  "admin/test": "teste",
-  "store/test": "teste"
+  "admin-merchant-controller.navigation.label": "Styrk",
+  "admin-merchant-controller.navigation.search.kws": "styrk, api, key, token",
+  "admin-merchant-styrk.title": "Styrk",
+  "admin-merchant-styrk.settings.styrkId.label": "Styrk Id",
+  "admin-merchant-styrk.settings.styrkId.helpText": "Ingresa Styrk Id",
+  "admin-merchant-styrk.settings.styrkId.buttonText": "Consultar"
 }

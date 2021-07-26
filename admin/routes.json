@@ -1,0 +1,6 @@
+{
+  "admin.app.merchantController": {
+    "component": "merchantController",
+    "path": "/admin/app/merchant-controller"
+  }
+}
